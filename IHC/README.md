@@ -17,7 +17,7 @@ O sistema deve manter os usuários informados sobre o que está acontecendo, for
  <summary>Exemplo 1</summary>
  <br>
  <p>
-  Neste exemplo ...
+  Nessa heurísticas o ideal é que os sistemas sempre mantenham os usuários informados sobre o que está acontecendo, por meio de feedback apropriado dentro de um prazo razoável, no exemplo abaixo, o spotify consegue sempre manter o usuário informado sobre qual musica está escutando e qual será a próxima.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/1%20-%20bom.png" width="800px" />
 </details>
@@ -27,7 +27,7 @@ O sistema deve manter os usuários informados sobre o que está acontecendo, for
  <summary>Exemplo 2</summary>
  <br>
  <p>
-  Neste exemplo ...
+  Nessa heurísticas o ideal é que os sistemas sempre mantenham os usuários informados sobre o que está acontecendo, por meio de feedback apropriado dentro de um prazo razoável, no exemplo abaixo, o youtube consegue sempre manter o usuário informado sobre qual video está vendo e qual será o próximo.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/1%20-%20playlist%20.png" width="800px" />
 </details>
@@ -44,7 +44,7 @@ A linguagem utilizada no sistema deve ser familiar aos usuários, refletindo ter
  <summary>Exemplo 1</summary>
  <br>
  <p>
-  Neste exemplo ...
+  Neste exemplo o gmail se utilizou de um icone de lixeira dando ao usuário uma familiaridade com o site refletindo sobre o conceito ao envés de termos técnicos.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/2%20-%20exemplo%20do%20dia%20a%20dia%20.png" width="800px" />
 </details>
@@ -54,7 +54,7 @@ A linguagem utilizada no sistema deve ser familiar aos usuários, refletindo ter
  <summary>Exemplo 2</summary>
  <br>
  <p>
-  Neste exemplo ...
+  Neste exemplo o Neo4j se utilizou de um icone de lixeira dando ao usuário uma familiaridade com o site refletindo sobre o conceito ao envés de termos técnicos.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/2%20-%20outro%20exemplo%20dia%20a%20dia.png" width="800px" />
 </details>
@@ -72,7 +72,7 @@ Os usuários devem ter a capacidade de desfazer ações indesejadas ou sair de e
  <summary>Exemplo 1</summary>
  <br>
  <p>
-  Neste exemplo ...
+  Neste exemplo é dado ao usuário a capacidade de desfazer ações, caso o usuário tenha feito excluido um email acidentalmente.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/3%20-%20exemplo%20bom.png" width="800px" />
 </details>
