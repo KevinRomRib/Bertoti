@@ -90,7 +90,7 @@ Os elementos de interface devem ser consistentes em todo o sistema, seguindo con
  <summary>Exemplo 1</summary>
  <br>
  <p>
-  Neste exemplo ...
+  Ao adicionar um item ao carrinho, qual é o primeiro lugar que todas pessoas olham para acessar o carrinho? A maior parte é no canto superior direito, sendo assim, é seguido um "padrão", abaixo temos um exemplo desse mesmo padrão.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/4%20-%20Carrinho%20sempre%20no%20canto%20superior%20direito.png" width="800px" />
 </details>
@@ -108,7 +108,7 @@ O sistema deve ser projetado de forma a evitar erros sempre que possível. Isso 
  <summary>Exemplo 1</summary>
  <br>
  <p>
-  Neste exemplo ...
+  No exemplo abaixo mostra que todos os campos são obrigatórios, previnindo assim de um usuário não preencher algum campo gerando um possível erro.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/5%20-%20Campo%20obrigat%C3%B3rio.png" width="800px" />
 </details>
@@ -118,7 +118,7 @@ O sistema deve ser projetado de forma a evitar erros sempre que possível. Isso 
  <summary>Exemplo 2</summary>
  <br>
  <p>
-  Neste exemplo ...
+  Outro exemplo de prevenção de erro, é um do proprio windows, ao excluir um arquivo recebemos um alerta de confirmação, assim previnindo possíveis "erros" ou acidentes do usuário.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/5%20-%20preven%C3%A7%C3%A3o%20de%20erros.png" width="800px" />
 </details>
@@ -136,7 +136,7 @@ O sistema deve ser projetado de forma a evitar erros sempre que possível. Isso 
  <summary>Exemplo 1</summary>
  <br>
  <p>
-  Neste exemplo ...
+  Neste exemplo o usuário precisaria lembrar-se do que escreveu, assim não satisfazendo a heurística citada.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/6%20-%20exemplo%20ruim%20pois%20n%C3%A3o%20ajuda%20o%20usuario%2C%20fazendo%20o%20mesmo%20ter%20que%20lembrar%20do%20que%20escreveu.png" width="800px" />
 </details>
@@ -153,7 +153,7 @@ O sistema deve atender às necessidades de usuários novatos e experientes, ofer
  <summary>Exemplo 1</summary>
  <br>
  <p>
-  Neste exemplo ...
+  Neste exemplo temos duas formas de abrir uma nova guia, através de um atalho ou através do próprio icone, assim usuários avançados conseguem se utilizar do chrome de uma forma mais rapida assim como usuários novos também conseguem atender suas necessidades interativamente, satisfazendo assim a heurística citada.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/7%20-%20usuarios%20avan%C3%A7ados%20conseguem%20usar%20mais%20rapido%20e%20usuarios%20novos%20conseguem%20usar%20interativamente.png" width="800px" />
 </details>
@@ -171,7 +171,7 @@ As informações apresentadas devem ser relevantes e significativas para os usu�
  <summary>Exemplo 1</summary>
  <br>
  <p>
-  Neste exemplo ...
+  No exemplo abaixo, vemos que o site não segue essa heurística, pois há muitas informações e opções na tela, podendo assim destrair ou até mesmo fazer o usuário se perder.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/8%20-%20Design.png" width="800px" />
 </details>
@@ -189,7 +189,7 @@ Em caso de erros, o sistema deve apresentar mensagens claras e simples, explican
  <summary>Exemplo 1</summary>
  <br>
  <p>
-  Neste exemplo ...
+  Neste exemplo, também não é seguido a heurística, pois ao envés de ajudar o usuário a reconhecer o erro especificando qual campo está errado, o site relata que ocorreu um erro em um dos dois campos. 
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/9-%20Ajude%20os%20usu%C3%A1rios%20a%20reconhecer%2C%20diagnosticar%20e%20recuperar%20erros.png" width="800px" />
 </details>
@@ -207,7 +207,7 @@ O sistema deve fornecer suporte adequado, como documentação de ajuda, tutoriai
  <summary>Exemplo 1</summary>
  <br>
  <p>
-  Neste exemplo ...
+  Aqui vemos um exemplo claro de ajuda e documentação, a FAQ(Frequently Asked Questions) do google, onde é respondida as perguntas mais freequentes, ajudando assim o usuário quando necessário.
  </p>
  <img src="https://github.com/KevinRomRib/Bertoti/blob/main/IHC/img/10%20-%20FAQ%20do%20google%20de%20perguntas%20frequentes.png" width="800px" />
 </details>
